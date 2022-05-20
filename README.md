@@ -33,8 +33,7 @@ Builtins
  help
  history
 
-Authors
+Authors:
 Virginia Wabuke
-
 Trevor Okoth
 
