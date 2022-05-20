@@ -32,7 +32,7 @@ Builtins
  -unsetenv
  -cd
  -help
- history
+ -history
 
 Authors:
 Virginia Wabuke
